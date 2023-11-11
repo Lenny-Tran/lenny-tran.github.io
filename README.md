@@ -1,3 +1,6 @@
+theme: minima
+
+
 ---
 __Advertisement :)__
 
